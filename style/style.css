@@ -1,7 +1,1 @@
-div h1::after,div h1::before{
-    content:"------";
-    color:blue;
-}
-div h1:hover{
-    color: aqua;
-}
+
